@@ -1,9 +1,3 @@
-[LinkedIn](https://www.linkedin.com/in/andreaevferrari/)
-
-[GitHub](https://github.com/andreaevferrari)
-
-andrea DOT e DOT v DOT ferrari AT gmail DOT com
-
 I am a high-energy physicist working across Physics (Quantum Fields and Strings), Mathematics (Algebraic Geoemetry and Category Theory) and Machine Learning. 
 
 
@@ -53,3 +47,4 @@ TBC
 
 </details>
 
+Contact me via [email](mailto:andrea.e.v.ferrari@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/andreaevferrari/) / [GitHub](https://github.com/andreaevferrari) 
