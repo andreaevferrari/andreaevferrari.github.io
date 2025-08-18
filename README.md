@@ -1,9 +1,6 @@
 # 
 
-<details>
-<summary>Summary</summary>
-
-I am a high-energy physicist working across Physics, Mathematics, and Machine Learning.
+I am a high-energy physicist working across Physics (Quantum Fields and Strings), Mathematics (Algebraic Geoemtry and Category Theory) and Machine Learning.
 
 </details>
 
