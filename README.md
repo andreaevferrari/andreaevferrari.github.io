@@ -83,7 +83,7 @@ Over the years, I have used maths and ML competences to do work on and advise on
 
 <br>
 
- My first intellectual interests were in Philosophy, and I also have a strong philosophical academic background. It remains one of my hobbies.
+My first intellectual interests were in Philosophy, and I also have a strong philosophical academic background. It remains one of my hobbies.
 
 
 
@@ -100,6 +100,7 @@ I have been passionate about Philosophy, both continental and analytic. I did so
 
 </details>
 
+<br>
 
 I am passionate about music, hiking (especially around the mountains my family has been living in for ~600 years, as well as high-altitude volcanos), and a few other things.
 
