@@ -39,7 +39,7 @@ I am currently working on the following:
 -Use chiralisation techniques to describe geometrically spaces of conformal blocks of chiral CFTs.
 -Use chiralisation techniques to understand AdS/CFT holography at minimal string tension.
 -Understand more thoroughly the deep relationship between Berry phases and generalised cohomology.
--Use higher geoemtry to understand generalised symmetries and their representations.
+-Use higher geometry to understand generalised symmetries and their representations.
 
 </p>
 
@@ -56,7 +56,7 @@ Whenever possible (such as during the pandemic), I have been a promoter of inter
 
 <p style="font-size:10px">
   
-I believe that whenever there is the opportunity for academics to have an impact besides their domain of research, it ought to be taken. Over the years, I have used maths and ML competences to do work on and advise on risk management, megaproject management, and as I come from a family of builders, construction more generally. Contact me if you'd like to hear more.
+Over the years, I have used maths and ML competences to do work on and advise on risk management, megaproject management, and as I come from a family of builders, construction more generally. Contact me if you'd like to hear more.
   
 </p>
 
