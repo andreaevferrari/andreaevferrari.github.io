@@ -44,7 +44,7 @@ Broadly speaking, I have been pioneering the following research directions:
 
 <ul style="font-size:14px;">
 <li> 
-    The description of observables of 3d SUSY gauge theories exploting the geometry of vortex and quasi-map moduli spaces. 
+    The description of observables of 3d SUSY gauge theories in terms of the geometry of vortex and quasi-map moduli spaces. 
     <a href="https://pirsa.org/19030107" target="_blank">Sample talk at PI</a> and 
     <a href="./talks/Geom_Indices.pdf" target="_blank">sample slide deck</a>.
 </li>
