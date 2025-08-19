@@ -4,7 +4,15 @@ I am a high-energy physicist working across Physics (Quantum Fields and Strings)
 <details>
 <summary>Short Physics/Maths Academic Bio </summary>
 
+<br>
+  
+<p style="font-size:14px">
+  
 I studied at the University of Zurich/ETHZ (Swiss Federal Institute of Technology), and completed a PhD/DPhil at the Mathematical Institute of the University of Oxford. I have been affiliated with the Perimeter Institute, Durham University, the University of Edinburgh, DESY Hamburg. I am currently visiting the University of Cambridge.
+
+  
+</p>
+
 
 </details>
 
@@ -15,6 +23,8 @@ My Physics/Maths papers can be found on [InSpire](https://inspirehep.net/authors
 <details>
 <summary>Physics and Maths Research </summary>
 
+<br>
+  
 Broadly speaking, I have been pioneering the following research directions:
 
 -
@@ -32,6 +42,8 @@ Whenever possible (such as during the pandemic), I have been a promoter of inter
 <details>
 <summary>Mathematics and Industry</summary>
 
+<br>
+
 TBC
 
 </details>
@@ -45,6 +57,8 @@ Perhaps surprisingly, I also have an academic background in Philosophy. I remain
 <details>
 <summary>Philosophy Background and Interests</summary>
 
+<br>
+
 TBC
 
 </details>
@@ -56,6 +70,8 @@ I am passionate about music, hiking (especially around the mountains my family h
 
 
 <summary>Others </summary>
+
+<br>
 
 TBC
 
