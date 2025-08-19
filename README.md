@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: flex-start; gap: 10px;">
   <div style="flex-shrink: 0;">
-    <img src="./images/DSC8599.jpg alt="My Image" width="100" style="display: block;">
+    <img src="./images/DSC8599.jpg" alt="My Image" width="100" style="display: block;">
   </div>
   <div>
     <p style="margin: 0; padding: 0;">
