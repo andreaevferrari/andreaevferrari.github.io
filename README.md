@@ -87,9 +87,10 @@ I am currently working on the following:
 
 
 One of the most important tasks in Machine Learning applied to Physics is to fit parameters in a Hamiltonian such that obsreved data is reproduced. Given this, can one learn not only a Hamiltonian, but also features such as the structure of the space the system is defined on, and the observables that are producing certain correlation functions? 
+</p>
 
 <br>
-  
+<p> 
 This question is fundamental if one wants to automatically discover dualities. I am currently pioneering such approaches. See this <a href="https://icml.cc/virtual/2025/poster/44740" target="_blank">ICML25</a> paper for some first results.
   
 </p>
