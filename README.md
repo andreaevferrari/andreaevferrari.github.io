@@ -88,7 +88,7 @@ One of the most important tasks in Machine Learning applied to Physics is to fit
 
 <br>
   
-These questions are fundamental if one wants to automatically discover dualities. I am currently pioneering such approaches. See this <a href="https://https://icml.cc/virtual/2025/poster/44740" target="_blank">ICML25</a> paper for some first results.
+These questions are fundamental if one wants to automatically discover dualities. I am currently pioneering such approaches. See this <a href="https://icml.cc/virtual/2025/poster/44740" target="_blank">ICML25</a> paper for some first results.
   
 </p>
 
