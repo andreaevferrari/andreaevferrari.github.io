@@ -23,9 +23,8 @@ My Physics/Maths papers can be found on [InSpire](https://inspirehep.net/authors
 <details>
 <summary>Physics and Maths Research</summary>
 
-
-<br>
-
+<p style="font-size:14px;">
+  <br>
 Broadly speaking, I have been pioneering the following research directions:
     
     <ul>
@@ -59,9 +58,9 @@ I am currently working on the following:
 <li>
   Understand more thoroughly the deep relationship between Berry phases and generalised cohomology. 
 </li> 
-<li> </li>Exploit higher geometry to understand generalised symmetries and their representations.  <\li>
+<li> Exploit higher geometry to understand generalised symmetries and their representations.  <\li>
 
-
+<\p>
 </details>
 
 
