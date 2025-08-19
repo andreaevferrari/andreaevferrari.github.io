@@ -6,7 +6,7 @@
       <img src="./images/DSC8599.jpg" alt="My Image" width="150">
     </td>
     <td valign="middle" style="padding-left: 10px;">
-      High-energy physicist working across Physics (Quantum Fields and Strings), Mathematics (Algebraic Geoemetry and Category Theory) and Machine Learning.
+      High-energy physicist working across Physics (Quantum Fields and Strings), Mathematics (Algebraic Geometry and Category Theory) and Machine Learning.
     </td>
   </tr>
 </table>
