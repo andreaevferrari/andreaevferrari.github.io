@@ -18,7 +18,7 @@ I studied at the University of Zurich/ETHZ (Swiss Federal Institute of Technolog
 
 <br>
 
-My Physics/Maths papers can be found on [InSpire](https://inspirehep.net/authors/1712079), and when it comes to ML conferences, on [OpenReview](https://dblp.org/pid/392/9865.html). See below for a quick summary of my interests, and links to sample talks and slide decks.
+My Physics/Maths papers can be found on [InSpire](https://inspirehep.net/authors/1712079), and when it comes to ML conferences, on [OpenReview](https://openreview.net/profile?id=~Andrea_E._V._Ferrari1). See below for a quick summary of my interests, and links to sample talks and slide decks.
 
 <details>
 <summary>Physics and Maths Research </summary>
