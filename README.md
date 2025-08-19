@@ -38,10 +38,10 @@ Broadly speaking, I have been pioneering the following research directions:
 
 I am currently working on the following:
 
-- Use chiralisation techniques to describe geometrically spaces of conformal blocks of chiral CFTs.
-- Use chiralisation techniques to understand AdS/CFT holography at minimal string tension.
+- Exploit chiralisation techniques to describe geometrically spaces of conformal blocks of chiral CFTs.
+- Exploit chiralisation techniques to understand AdS/CFT holography at minimal string tension.
 - Understand more thoroughly the deep relationship between Berry phases and generalised cohomology.
-- Use higher geometry to understand generalised symmetries and their representations.
+- Exploit higher geometry to understand generalised symmetries and their representations.
 
 </p>
 
