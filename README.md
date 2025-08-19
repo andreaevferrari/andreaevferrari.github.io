@@ -28,9 +28,11 @@ My Physics/Maths papers can be found on [InSpire](https://inspirehep.net/authors
   
 Broadly speaking, I have been pioneering the following research directions:
     <ul>
-     <li> Describe observables of 3d SUSY gauge theories exploting the geometry of vortex and quasi-map moduli spaces.
-        <a href="https://pirsa.org/19030107" target="_blank">Sample talk at PI</a> and 
-        <a href="talks/Geom_Indices.pdf" target="_blank">sample slide deck</a>.</li>
+     <li> 
+       Describe observables of 3d SUSY gauge theories exploting the geometry of vortex and quasi-map moduli spaces. 
+       <a href="https://pirsa.org/19030107" target="_blank">Sample talk at PI</a> and 
+       <a href="talks/Geom_Indices.pdf" target="_blank">sample slide deck</a>.
+      </li>
     <\ul>
 
 
