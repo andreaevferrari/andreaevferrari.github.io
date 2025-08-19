@@ -53,7 +53,7 @@ Broadly speaking, I have been pioneering the following research directions:
 <li> 
     Understand generalised symmetries in QFT in terms of higher representation theory, opening up the understanding of their representations.
     <a href="https://www.youtube.com/watch?v=vwkouB69R-M" target="_blank">Sample talk at Oxford</a> and 
-    <a href="./GenSym_HigherGauge.pdf" target="_blank">sample slide deck</a>. 
+    <a href="./talks/GenSym_HigherGauge.pdf" target="_blank">sample slide deck</a>. 
 </li>
 <li> 
   Understand the relation between moduli spaces of Berry connections of QFTs/periodic monopoles and generalised cohomology.
@@ -86,6 +86,8 @@ I am currently working on the following:
 
 One of the most important tasks in Machine Learning applied to Physics is to fit parameters in a Hamiltonian such that obsreved data is reproduced. However, can one learn not only a Hamiltonian, but also features such as the structure of the space the system is defined on, and the observables that are producing certain correlation functions? 
 
+<br>
+  
 These questions are fundamental if one wants to automatically discover dualities. I am currently pioneering such approaches. See this <a href="https://https://icml.cc/virtual/2025/poster/44740" target="_blank">ICML25</a> paper for some first results.
   
 </p>
