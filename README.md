@@ -2,7 +2,7 @@
 
 <table style="border: none; border-collapse: collapse;">
   <tr>
-    <td style="border: none" ; padding: 0;>
+    <td style="border: none ; padding: 0;">
       <img  src = "./images/DSC8599.jpg" alt="My Image" width="100">
     </td>
     <td style="border: none; padding-left: 10px;">
