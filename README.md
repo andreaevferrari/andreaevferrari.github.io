@@ -6,7 +6,7 @@ I am a high-energy physicist working across Physics (Quantum Fields and Strings)
 
 <br>
   
-<p style="font-size:10px">
+<p style="font-size:14px">
   
 I studied at the University of Zurich/ETHZ (Swiss Federal Institute of Technology), and completed a PhD/DPhil at the Mathematical Institute of the University of Oxford. My MSc advisor was Niklas Beisert, my DPhil supervisor Lionel Mason. I have been affiliated with the Perimeter Institute, Durham University, the University of Edinburgh, DESY Hamburg. I am currently visiting the University of Cambridge.
 
@@ -25,7 +25,7 @@ My Physics/Maths papers can be found on [InSpire](https://inspirehep.net/authors
   
 <br>
 
-<p style="font-size:10px">
+<p style="font-size:14px">
   
 Broadly speaking, I have been pioneering the following research directions:
 
@@ -54,7 +54,7 @@ Whenever possible (such as during the pandemic), I have been a promoter of inter
 
 <br>
 
-<p style="font-size:10px">
+<p style="font-size:14px">
   
 Over the years, I have used maths and ML competences to do work on and advise on risk management, megaproject management, and as I come from a family of builders, construction more generally. Contact me if you'd like to hear more.
   
@@ -73,7 +73,11 @@ Perhaps surprisingly, I also have an academic background in Philosophy. It remai
 
 <br>
 
+<p style="font-size:14px">
+
 I have been passionate about Philosophy, both continental and analytic. I did some Philosophy in my undergrad and completed with distinction an MSt in Philosophy of Physics at the University of Oxford. I wrote essays on epistemology, philosophy of science, and philosophy of physics. I enjoy thinking about how the foundations of mathematics and geometry impact the construction of physical theories. If you are at all curious about this, feel free to contact me.
+
+</p>
 
 </details>
 
