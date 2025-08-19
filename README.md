@@ -77,7 +77,7 @@ One of the most important tasks in Machine Learning applied to Physics is to fit
 
 These questions are fundamental if one wants to automatically discover dualities. I am currently pioneering such approaches. See this <a href="https://https://icml.cc/virtual/2025/poster/44740" target="_blank">ICML25</a> paper for some first results.
   
-<\p>
+</p>
 
 </details>
 
@@ -93,7 +93,7 @@ Whenever not detrimental to my research (such as during the pandemic), I have be
   
 Over the years, I have used maths and ML competences to do work on and advise on risk management, megaproject management, and as I come from a family of builders, construction more generally. Contact me if you'd like to hear more.
   
-<\p>
+</p>
 
 </details>
 
@@ -112,7 +112,7 @@ My first intellectual interests were in Philosophy, and I also have a strong phi
 I have been passionate about Philosophy, both continental and analytic. I did some Philosophy in my undergrad and completed with distinction an MSt in Philosophy of Physics at the University of Oxford. I wrote essays on epistemology, philosophy of science, and philosophy of physics. I enjoy thinking about how the foundations of mathematics and geometry impact the construction of physical theories. If you are at all curious about this, feel free to contact me.
 
 
-<\p>
+</p>
 
 </details>
 
