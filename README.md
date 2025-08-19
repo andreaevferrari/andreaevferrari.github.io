@@ -100,7 +100,7 @@ Over the years, I have used maths and ML competences to do work on and advise on
 
 <br>
 
-My first intellectual interests were in Philosophy, and I also have a strong philosophical academic background. It remains one of my hobbies.
+My first intellectual interests were in Philosophy, and I also have a strong academic background in Philosophy. It remains one of my hobbies.
 
 
 
