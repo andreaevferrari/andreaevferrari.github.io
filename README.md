@@ -42,7 +42,7 @@ Broadly speaking, I have been pioneering the following research directions:
 <li> 
     Understand generalised symmetries in QFT in terms of higher representation theory, opening up the understanding of their representations.
     <a href="https://www.youtube.com/watch?v=vwkouB69R-M" target="_blank">Sample talk at Oxford</a> and 
-    <a href="GenSym_HigherGauge.pdf" target="_blank">mypdf</a>. 
+    <a href="GenSym_HigherGauge.pdf" target="_blank">sample slide deck</a>. 
 </li>
 <li> 
   Understand the relation between moduli spaces of Berry connections of QFTs/periodic monopoles and generalised cohomology.
