@@ -69,14 +69,15 @@ I am currently working on the following:
 <details>
 <summary>Physics and ML Research </summary>
   
-
+<p style="font-size:14px;">
+<br>
 
 
 One of the most important tasks in Machine Learning applied to Physics is to fit parameters in a Hamiltonian such that obsreved data is reproduced. However, can one learn not only a Hamiltonian, but also features such as the structure of the space the system is defined on, and the observables that are producing certain correlation functions? 
 
-These questions are fundamental if one wants to automatically discover dualities. I am currently pioneering such approaches. See this [ICLM25]() paper for some first results.
+These questions are fundamental if one wants to automatically discover dualities. I am currently pioneering such approaches. See this <a href="https://https://icml.cc/virtual/2025/poster/44740" target="_blank">ICML25</a> paper for some first results.
   
-
+<\p>
 
 </details>
 
@@ -87,11 +88,12 @@ Whenever possible (such as during the pandemic), I have been a promoter of inter
 <details>
 <summary>Mathematics and Industry</summary>
 
-
+<p style="font-size:14px;">
+<br>
   
 Over the years, I have used maths and ML competences to do work on and advise on risk management, megaproject management, and as I come from a family of builders, construction more generally. Contact me if you'd like to hear more.
   
-
+<\p>
 
 </details>
 
@@ -104,11 +106,13 @@ My first intellectual interests were in Philosophy, and I also have a strong phi
 <details>
 <summary>Philosophy Background and Interests</summary>
 
-
+<p style="font-size:14px;">
+<br>
 
 I have been passionate about Philosophy, both continental and analytic. I did some Philosophy in my undergrad and completed with distinction an MSt in Philosophy of Physics at the University of Oxford. I wrote essays on epistemology, philosophy of science, and philosophy of physics. I enjoy thinking about how the foundations of mathematics and geometry impact the construction of physical theories. If you are at all curious about this, feel free to contact me.
 
 
+<\p>
 
 </details>
 
@@ -121,8 +125,12 @@ I am passionate about music, hiking (especially around the mountains my family h
 
 <summary>Others </summary>
 
+<p style="font-size:14px;">
+<br>
 
 I am trying to build a generative model that composes fugues. If you are interested in contribute, contact me.
+
+<\p>
 
 </details>
 
