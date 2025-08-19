@@ -28,8 +28,9 @@ My Physics/Maths papers can be found on [InSpire](https://inspirehep.net/authors
 <br>
   
 Broadly speaking, I have been pioneering the following research directions:
+</p>
 
-<ul>
+<ul style="font-size:14px;">
 <li> 
     Describe observables of 3d SUSY gauge theories exploting the geometry of vortex and quasi-map moduli spaces. 
     <a href="https://pirsa.org/19030107" target="_blank">Sample talk at PI</a> and 
@@ -51,17 +52,17 @@ Broadly speaking, I have been pioneering the following research directions:
 </li>
 </ul>
 
-
+<p style="font-size:14px;"> 
 I am currently working on the following:
-
-<ul>
+</p>
+<ul style="font-size:14px;">
 <li> Exploit chiralisation techniques to describe geometrically spaces of conformal blocks of chiral CFTs. </li>
 <li> Exploit chiralisation techniques to understand AdS/CFT holography at minimal string tension. </li>
 <li> Understand more thoroughly the deep relationship between Berry phases and generalised cohomology. </li> 
 <li> Exploit higher geometry to understand generalised symmetries and their representations.  </li>
 </ul>
 
-</p>
+
 
 </details>
 
