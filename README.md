@@ -3,7 +3,7 @@
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none; vertical-align: middle; padding-right: 10px;">
-      <img src="./images/DSC8599.jpg" alt="My Image" style="max-width: 150px; height: auto;">
+      <img src="images/DSC8599.JPG" alt="My Image" style="max-width: 150px; height: auto;">
     </td>
     <td style="border: none; vertical-align: middle;">
       High-energy physicist working across Physics (Quantum Fields and Strings), Mathematics (Algebraic Geometry and Category Theory) and Machine Learning.
