@@ -1,12 +1,17 @@
 <!-- Redirected from A Website Builder -->
 
 <div style="display: flex; align-items: flex-start; gap: 10px;">
-  <img src="./images/DSC8599.jpg" alt="My Image" width="150" style="display: block;">
-  <div style="margin: 0; padding: 0;">
-    <p style="margin: 0; padding: 0;">I am a high-energy physicist working across Physics (Quantum Fields and Strings), Mathematics (Algebraic Geoemetry and Category Theory) and Machine Learning.</p>
+  <div style="flex-shrink: 0;">
+    <img src="./images/DSC8599.jpg alt="My Image" width="100" style="display: block;">
+  </div>
+  <div>
+    <p style="margin: 0; padding: 0;">
+      I am a high-energy physicist working across Physics (Quantum Fields and Strings), Mathematics (Algebraic Geoemetry and Category Theory) and Machine Learning.
+    </p>
   </div>
 </div>
- 
+
+
 <br>
 
 <details>
