@@ -43,22 +43,19 @@ Broadly speaking, I have been pioneering the following research directions:
         <a href="https://www.youtube.com/watch?v=vwkouB69R-M" target="_blank">Sample talk at Oxford</a> and 
         <a href="GenSym_HigherGauge.pdf" target="_blank">mypdf</a>.
       </li>
-      <li>
-      Understand the relation between moduli spaces of Berry connections of QFTs/periodic monopoles and generalised cohomology.
+  <li> Understand the relation between moduli spaces of Berry connections of QFTs/periodic monopoles and generalised cohomology.
       <a href="https://www.youtube.com/watch?v=vwkouB69R-M" target="_blank">Sample talk at ICTP</a> and 
-        <a href="talks/Berry_GenCoh.pdf" target="_blank">sample slide deck</a>.
-      </li>
+        <a href="talks/Berry_GenCoh.pdf" target="_blank">sample slide deck</a> </li>
     </ul>
 
 I am currently working on the following:
 
  <ul>
-      <li> Exploit chiralisation techniques to describe geometrically spaces of conformal blocks of chiral CFTs. </li>
+<li> Exploit chiralisation techniques to describe geometrically spaces of conformal blocks of chiral CFTs. </li>
 <li>Exploit chiralisation techniques to understand AdS/CFT holography at minimal string tension. </li>
-<li>
-  Understand more thoroughly the deep relationship between Berry phases and generalised cohomology. 
-</li> 
+<li> Understand more thoroughly the deep relationship between Berry phases and generalised cohomology. </li> 
 <li> Exploit higher geometry to understand generalised symmetries and their representations.  <\li>
+<\ul>
 
 <\p>
 </details>
