@@ -20,17 +20,39 @@ I studied at the University of Zurich/ETHZ (Swiss Federal Institute of Technolog
 
 My Physics/Maths papers can be found on [InSpire](https://inspirehep.net/authors/1712079), and when it comes to ML conferences, on [OpenReview](https://openreview.net/profile?id=~Andrea_E._V._Ferrari1). Several of my talks can be found online. See below for a quick summary of my interests, and links to sample talks and slide decks.
 
+
+  <details>
+    <summary>Physics and Maths Research</summary>
+    
+    Broadly speaking, I have been pioneering the following research directions:
+    
+    <ul>
+      <li>
+        Describe observables of 3d SUSY gauge theories exploting the geometry of vortex and quasi-map moduli spaces. [Sample talk at PI]() and [sample slide deck](). 
+        <a href="https://pirsa.org/19030107" target="_blank">Sample talk at PI</a> and 
+        <a href="talks/Geom_Indices.pdf" target="_blank">sample slide deck</a>.
+      </li>
+      <li>
+       Understand 2d chiral CFTs (VOAs) that arise at the boundary of tolopogically twisted 3d QFTs in terms of the vacuum geometry of the 3d theory.
+        <a href="https://scgp.stonybrook.edu/video_portal/video.php?id=6991" target="_blank">Sample talk at the Simons Center</a> and 
+        <a href="talks/Hyper_VOAs.pdf" target="_blank">sample slide deck</a>,
+      </li>
+      <li>
+        Understand generalised symmetries in QFT in terms of higher representation theory, opening up the understanding of their representations.
+        <a href="https://www.youtube.com/watch?v=vwkouB69R-M" target="_blank">Sample talk at Oxford</a> and 
+        <a href="GenSym_HigherGauge.pdf" target="_blank">mypdf</a>.
+      </li>
+      <li>
+      Understand the relation between moduli spaces of Berry connections of QFTs/periodic monopoles and generalised cohomology.
+      <a href="https://www.youtube.com/watch?v=vwkouB69R-M" target="_blank">Sample talk at ICTP</a> and 
+        <a href="talks/Berry_GenCoh.pdf" target="_blank">sample slide deck</a>.
+      </li>
+    </ul>
+  </details>
+
+
 <details>
 <summary>Physics and Maths Research </summary>
-  
-
-  
-Broadly speaking, I have been pioneering the following research directions:
-
-- Describe observables of 3d SUSY gauge theories exploting the geometry of vortex and quasi-map moduli spaces. [Sample talk at PI](https://pirsa.org/19030107) and [sample slide deck](talks/Geom_Indices.pdf). 
-- Understand 2d chiral CFTs (VOAs) that arise at the boundary of tolopogically twisted 3d QFTs in terms of the vacuum geometry of the 3d theory. [Sample talk at the Simons Center](https://scgp.stonybrook.edu/video_portal/video.php?id=6991) and [sample slide deck](talks/Hyper_VOAs.pdf). 
-- Understand generalised symmetries in QFT in terms of higher representation theory, opening up the understanding of their representations. [Sample talk at Oxford](https://www.youtube.com/watch?v=vwkouB69R-M) and [sample slide deck](talks/GenSym_HigherGauge.pdf). 
-- Understand the relation between moduli spaces of Berry connections of QFTs/periodic monopoles and generalised cohomology. [Sample talk at ICTP](https://www.youtube.com/watch?v=2VEXMpJmCeo) and [sample slide deck](talks/Berry_GenCoh.pdf).
 
 I am currently working on the following:
 
