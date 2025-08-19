@@ -1,6 +1,17 @@
 <!-- Redirected from A Website Builder -->
 
-I am a high-energy physicist working across Physics (Quantum Fields and Strings), Mathematics (Algebraic Geoemetry and Category Theory) and Machine Learning. 
+<table>
+  <tr>
+    <td>
+      <img src="https://via.placeholder.com/100" alt="My Image" width="100">
+    </td>
+    <td>
+      <p>I am a high-energy physicist working across Physics (Quantum Fields and Strings), Mathematics (Algebraic Geoemetry and Category Theory) and Machine Learning.</p>
+    </td>
+  </tr>
+</table>
+
+ 
 
 <details>
 <summary>Short Physics/Maths Academic Bio </summary>
