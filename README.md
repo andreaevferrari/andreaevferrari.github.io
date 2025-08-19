@@ -7,12 +7,13 @@ I am a high-energy physicist working across Physics (Quantum Fields and Strings)
 <details>
 <summary>Short Physics/Maths Academic Bio </summary>
   
-
+<p style="font-size:14px;">
+<br>
   
 I studied at the University of Zurich/ETHZ (Swiss Federal Institute of Technology), and completed a PhD/DPhil at the Mathematical Institute of the University of Oxford. My MSc advisor was Niklas Beisert, my DPhil supervisor Lionel Mason. I have been affiliated with the Perimeter Institute, Durham University, the University of Edinburgh, DESY Hamburg. I am currently visiting the University of Cambridge.
 
   
-
+</p>
 
 </details>
 
@@ -65,7 +66,6 @@ I am currently working on the following:
 <\p>
 
 </details>
-
 
 
 <details>
