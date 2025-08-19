@@ -34,6 +34,7 @@ Broadly speaking, I have been pioneering the following research directions:
         <a href="talks/Berry_GenCoh.pdf" target="_blank">sample slide deck</a>. </li>
     </ul>
 
+
 I am currently working on the following:
 
  <ul>
