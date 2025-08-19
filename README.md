@@ -3,7 +3,7 @@
 <table style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td style="border: none; vertical-align: middle; padding-right: 10px;">
-      <img src="./images/DSC8599.jpg" alt="My Image" style="max-width: 100px; height: auto;">
+      <img src="./images/DSC8599.jpg" alt="My Image" style="max-width: 150px; height: auto;">
     </td>
     <td style="border: none; vertical-align: middle;">
       High-energy physicist working across Physics (Quantum Fields and Strings), Mathematics (Algebraic Geometry and Category Theory) and Machine Learning.
@@ -85,7 +85,7 @@ I am currently working on the following:
 <br>
 
 
-One of the most important tasks in Machine Learning applied to Physics is to fit parameters in a Hamiltonian such that obsreved data is reproduced. Given this, can one learn not only a Hamiltonian, but also features such as the structure of the space the system is defined on, and the observables that are producing certain correlation functions? 
+One of the most important tasks in Machine Learning applied to Physics is to fit parameters in a Hamiltonian such that observed data is reproduced. Given this, can one learn not only a Hamiltonian, but also features such as the structure of the space the system is defined on, and the observables that are producing certain correlation functions? 
 </p>
 
 <p style="font-size:14px;">
@@ -105,7 +105,7 @@ Whenever not detrimental to my research (such as during the pandemic), I have be
 <p style="font-size:14px;">
 <br>
   
-Over the years, I have used maths and ML competences to do work on and advise on risk management, megaproject management, and as I come from a family of builders, construction more generally. Contact me if you'd like to hear more.
+Over the years, I have used maths and ML competences to do work on and advise on risk management, megaproject management, construction more generally. Contact me if you'd like to hear more.
   
 </p>
 
@@ -132,7 +132,7 @@ I have been passionate about Philosophy, both continental and analytic. I did so
 
 <br>
 
-I am passionate about music, hiking (especially around the <a href="https://en.wikipedia.org/wiki/Lodrino,_Ticino" target="_blank">small Swiss town</a> my family <a href="https://www.patriziatolodrino.ch" target="_blank">co-founded</a> more than six centuries ago, as well as around high-altitude volcanos), writing, and a few other things.
+I am passionate about music, hiking (especially around the <a href="https://en.wikipedia.org/wiki/Lodrino,_Ticino" target="_blank">small Swiss town</a> my family <a href="https://www.patriziatolodrino.ch" target="_blank">has been inhabiting</a> for more than six centuries, as well as around high-altitude volcanos), writing, and a few other things.
 
 <details>
 
