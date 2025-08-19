@@ -39,6 +39,7 @@ I am currently working on the following:
 -Use chiralisation techniques to describe geometrically spaces of conformal blocks of chiral CFTs.
 -Use chiralisation techniques to understand AdS/CFT holography at minimal string tension.
 -Understand more thoroughly the deep relationship between Berry phases and generalised cohomology.
+-Use higher geoemtry to understand generalised symmetries and their representations.
 
 </p>
 
