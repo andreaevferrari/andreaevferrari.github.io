@@ -73,7 +73,7 @@ Perhaps surprisingly, I also have an academic background in Philosophy. It remai
 
 <br>
 
-I have been passionate about Philosophy, both continental and analytic. I did some Philosophy in my undergrad and completed with distinction an MSt in Philosophy of Physics at the University of Oxford. I wrote essays on epistemology, philosophy of science, and philosophy of physics. In my leisure time, I am currently thinking about how the foundations of mathematics impact the construction of physical theories. If you are at all curious about this, feel free to contact me.
+I have been passionate about Philosophy, both continental and analytic. I did some Philosophy in my undergrad and completed with distinction an MSt in Philosophy of Physics at the University of Oxford. I wrote essays on epistemology, philosophy of science, and philosophy of physics. I enjoy thinking about how the foundations of mathematics and geometry impact the construction of physical theories. If you are at all curious about this, feel free to contact me.
 
 </details>
 
@@ -87,7 +87,7 @@ I am passionate about music, hiking (especially around the mountains my family h
 
 <br>
 
-TBC
+I am trying to build a generative model that composes fugues. If you are interested, contact me.
 
 </details>
 
