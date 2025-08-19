@@ -23,16 +23,15 @@ My Physics/Maths papers can be found on [InSpire](https://inspirehep.net/authors
 <details>
 <summary>Physics and Maths Research</summary>
 
-<p style="font-size:14px;">
+
 <br>
   
 Broadly speaking, I have been pioneering the following research directions:
     <ul>
-     <li> Describe observables of 3d SUSY gauge theories exploting the geometry of vortex and quasi-map moduli spaces. [Sample talk at PI]() and [sample slide deck](). 
+     <li> Describe observables of 3d SUSY gauge theories exploting the geometry of vortex and quasi-map moduli spaces.
         <a href="https://pirsa.org/19030107" target="_blank">Sample talk at PI</a> and 
         <a href="talks/Geom_Indices.pdf" target="_blank">sample slide deck</a>.</li>
-      <\ul>
-  
+    <\ul>
 
 
 
@@ -45,7 +44,7 @@ I am currently working on the following:
 <li> Exploit higher geometry to understand generalised symmetries and their representations.  <\li>
 </ul>
 
-</p>
+
 </details>
 
 
