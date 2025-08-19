@@ -24,7 +24,8 @@ My Physics/Maths papers can be found on [InSpire](https://inspirehep.net/authors
 <summary>Physics and Maths Research</summary>
 
 <p style="font-size:14px;">
-  <br>
+<br>
+  
 Broadly speaking, I have been pioneering the following research directions:
     
     <ul>
@@ -51,7 +52,7 @@ I am currently working on the following:
 <li> Exploit higher geometry to understand generalised symmetries and their representations.  <\li>
 <\ul>
 
-<\p>
+</p>
 </details>
 
 
