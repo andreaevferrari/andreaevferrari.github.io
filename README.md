@@ -21,10 +21,10 @@ I studied at the University of Zurich/ETHZ (Swiss Federal Institute of Technolog
 My Physics/Maths papers can be found on [InSpire](https://inspirehep.net/authors/1712079), and when it comes to ML conferences, on [OpenReview](https://openreview.net/profile?id=~Andrea_E._V._Ferrari1). Several of my talks can be found online. See below for a quick summary of my interests, and links to sample talks and slide decks.
 
 
-  <details>
-    <summary>Physics and Maths Research</summary>
+<details>
+<summary>Physics and Maths Research</summary>
     
-    Broadly speaking, I have been pioneering the following research directions:
+Broadly speaking, I have been pioneering the following research directions:
     
     <ul>
       <li>
@@ -48,11 +48,6 @@ My Physics/Maths papers can be found on [InSpire](https://inspirehep.net/authors
         <a href="talks/Berry_GenCoh.pdf" target="_blank">sample slide deck</a>.
       </li>
     </ul>
-  </details>
-
-
-<details>
-<summary>Physics and Maths Research </summary>
 
 I am currently working on the following:
 
