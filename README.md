@@ -150,4 +150,6 @@ I am trying to build a generative model that composes fugues. If you are interes
 
 </details>
 
+<br>
+
 Contact me via [email](mailto:andrea.e.v.ferrari@gmail.com) and/or on [LinkedIn](https://www.linkedin.com/in/andreaevferrari/) / [GitHub](https://github.com/andreaevferrari) 
