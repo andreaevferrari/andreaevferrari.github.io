@@ -6,7 +6,7 @@ I am a high-energy physicist working across Physics (Quantum Fields and Strings)
 
 <br>
   
-<p style="font-size:14px">
+<p style="font-size:10px">
   
 I studied at the University of Zurich/ETHZ (Swiss Federal Institute of Technology), and completed a PhD/DPhil at the Mathematical Institute of the University of Oxford. I have been affiliated with the Perimeter Institute, Durham University, the University of Edinburgh, DESY Hamburg. I am currently visiting the University of Cambridge.
 
