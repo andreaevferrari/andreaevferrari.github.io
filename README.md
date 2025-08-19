@@ -3,7 +3,7 @@
 <table style="border: none; border-collapse: collapse;">
   <tr>
     <td style="border: none;">
-      <img src="https://via.placeholder.com/100" alt="My Image" width="100">
+      <img src = "imagesDSC8599.jpg" alt="My Image" width="100">
     </td>
     <td style="border: none; padding-left: 10px;">
       <p>I am a high-energy physicist working across Physics (Quantum Fields and Strings), Mathematics (Algebraic Geoemetry and Category Theory) and Machine Learning.</p>
