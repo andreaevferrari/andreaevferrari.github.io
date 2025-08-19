@@ -129,7 +129,7 @@ I have been passionate about Philosophy, both continental and analytic. I did so
 
 <br>
 
-I am passionate about music, hiking (especially around the mountains my family has been living in for ~600 years, as well as high-altitude volcanos), and a few other things.
+I am passionate about music, hiking (especially around the town my family has been living in for ~600 years, as well as around high-altitude volcanos), and a few other things.
 
 <details>
 
