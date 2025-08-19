@@ -105,7 +105,7 @@ Whenever not detrimental to my research (such as during the pandemic), I have be
 <p style="font-size:14px;">
 <br>
   
-Over the years, I have used maths and ML competences to do work on and advise on risk management, megaproject management, construction more generally. Contact me if you'd like to hear more.
+Over the years, I have used maths and ML competences to do work on and advise on risk management, megaproject management, and construction. Contact me if you'd like to hear more.
   
 </p>
 
