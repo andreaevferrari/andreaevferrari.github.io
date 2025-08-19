@@ -2,6 +2,7 @@
 
 I am a high-energy physicist working across Physics (Quantum Fields and Strings), Mathematics (Algebraic Geoemetry and Category Theory) and Machine Learning. 
 
+[InSpire](https://inspirehep.net/authors/1712079)
 
 <details>
 <summary>Short Physics/Maths Academic Bio </summary>
