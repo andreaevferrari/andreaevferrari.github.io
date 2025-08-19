@@ -36,9 +36,11 @@ TBC
 
 </details>
 
+<br>
+
 Perhaps surprisingly, I also have an academic background in Philosophy. I remain very interested in the topic.
 
-<br>
+
 
 <details>
 <summary>Philosophy Background and Interests</summary>
