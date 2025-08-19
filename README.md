@@ -132,7 +132,7 @@ I have been passionate about Philosophy, both continental and analytic. I did so
 
 <br>
 
-I am passionate about music, hiking (especially around the <a href="https://en.wikipedia.org/wiki/Lodrino,_Ticino" target="_blank">small Swiss alpine town</a> my family has been inhabiting <a href="https://www.patriziatolodrino.ch" target="_blank">for more than six centuries</a>, as well as around high-altitude volcanos), writing, and a few other things.
+I am passionate about music, hiking (especially around the <a href="https://en.wikipedia.org/wiki/Lodrino,_Ticino" target="_blank">small Swiss alpine town</a> my family has been inhabiting <a href="[https://www.patriziatolodrino.ch/index.php?node=301&lng=1&rif=5c75e69550" target="_blank">for more than six centuries</a>, as well as around high-altitude volcanos), writing, and a few other things.
 
 <details>
 
