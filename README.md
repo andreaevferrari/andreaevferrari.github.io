@@ -11,8 +11,7 @@
   </tr>
 </table>
 
-<br>
-
+<br clear="all">
 
 <details>
 <summary>Short Physics/Maths Academic Bio </summary>
