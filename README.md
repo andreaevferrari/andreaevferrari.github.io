@@ -19,7 +19,7 @@
 <p style="font-size:14px;">
 <br>
   
-I studied at the University of Zurich/ETHZ (Swiss Federal Institute of Technology), and completed a PhD/DPhil at the Mathematical Institute of the University of Oxford. My MSc advisor was Niklas Beisert, my DPhil supervisor Lionel Mason. I have been affiliated with the Perimeter Institute, Durham University, the University of Edinburgh, DESY Hamburg. I am currently visiting the University of Cambridge.
+I studied at the University of Zurich/ETHZ (Swiss Federal Institute of Technology), and completed a PhD/DPhil at the Mathematical Institute of the University of Oxford. My MSc advisor was Niklas Beisert, my DPhil supervisor Lionel Mason. I have been affiliated with the Perimeter Institute, Durham University, and most recently the University of Edinburgh and DESY, Hamburg. I am currently on a long-term visit to the University of Cambridge.
 
   
 </p>
