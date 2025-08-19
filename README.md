@@ -142,7 +142,7 @@ I am passionate about music, hiking (especially around the <a href="https://en.w
 <p style="font-size:14px;">
 <br>
 
-I am trying to build a generative model that composes fugues. If you are interested in contribute, contact me.
+I am trying to build a generative model that composes fugues. If you are interested in contributing, contact me.
 
 </p>
 
