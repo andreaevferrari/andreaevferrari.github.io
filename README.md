@@ -5,7 +5,7 @@
     <td valign="top">
       <img src="./images/DSC8599.jpg" alt="My Image" width="100">
     </td>
-    <td valign="top" style="padding-left: 10px;">
+    <td valign="middle" style="padding-left: 10px;">
       I am a high-energy physicist working across Physics (Quantum Fields and Strings), Mathematics (Algebraic Geoemetry and Category Theory) and Machine Learning.
     </td>
   </tr>
