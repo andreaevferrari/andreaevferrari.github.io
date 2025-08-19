@@ -1,3 +1,5 @@
+``redirected from A Website Builder"
+
 I am a high-energy physicist working across Physics (Quantum Fields and Strings), Mathematics (Algebraic Geoemetry and Category Theory) and Machine Learning. 
 
 
@@ -29,25 +31,42 @@ My Physics/Maths papers can be found on [InSpire](https://inspirehep.net/authors
   
 Broadly speaking, I have been pioneering the following research directions:
 
--Describe observables of 3d SUSY gauge theories exploting the geometry of vortex and quasi-map moduli spaces. See a sample [talk]() and a [slide deck]().
--Understand 2d chiral CFTs (VOAs) that arise at the boundary of tolopogically twisted 3d QFTs in terms of the vacuum geometry of the 3d theory. See a sample [talk]() and a [slide deck]().
--Understand generalised symmetries in QFT in terms of higher representation theory, opening up the understanding of their representations. See a sample [talk]() and a [slide deck]().
--Understand the relation between moduli spaces of Berry connections of QFT systems/periodic monopoles and generalised cohomology. See a sample [talk]() and [slide deck]().
+- Describe observables of 3d SUSY gauge theories exploting the geometry of vortex and quasi-map moduli spaces. See a sample [talk]() and a [slide deck]().
+- Understand 2d chiral CFTs (VOAs) that arise at the boundary of tolopogically twisted 3d QFTs in terms of the vacuum geometry of the 3d theory. See a sample [talk]() and a [slide deck]().
+- Understand generalised symmetries in QFT in terms of higher representation theory, opening up the understanding of their representations. See a sample [talk]() and a [slide deck]().
+- Understand the relation between moduli spaces of Berry connections of QFT systems/periodic monopoles and generalised cohomology. See a sample [talk]() and [slide deck]().
 
 I am currently working on the following:
 
--Use chiralisation techniques to describe geometrically spaces of conformal blocks of chiral CFTs.
--Use chiralisation techniques to understand AdS/CFT holography at minimal string tension.
--Understand more thoroughly the deep relationship between Berry phases and generalised cohomology.
--Use higher geometry to understand generalised symmetries and their representations.
+- Use chiralisation techniques to describe geometrically spaces of conformal blocks of chiral CFTs.
+- Use chiralisation techniques to understand AdS/CFT holography at minimal string tension.
+- Understand more thoroughly the deep relationship between Berry phases and generalised cohomology.
+- Use higher geometry to understand generalised symmetries and their representations.
 
+</p>
+
+</details>
+
+
+
+<details>
+<summary>Physics and ML Research </summary>
+  
+<br>
+
+<p style="font-size:14px">
+
+One of the most important tasks in Machine Learning applied to Physics is to fit parameters in a Hamiltonian such that obsreved data is reproduced. However, can one learn not only a Hamiltonian, but also features such as the structure of the space the system is defined on, and the observables that are producing certain correlation functions? 
+
+These questions are fundamental if one wants to automatically discover dualities. I am currently pioneering such approaches. See this [ICLM25]() paper for some first results.
+  
 </p>
 
 </details>
 
 <br>
 
-Whenever possible (such as during the pandemic), I have been a promoter of interactions between academia and the industry. Click for a quick summary of what I've done so far.
+Whenever possible (such as during the pandemic), I have been a promoter of interactions between academia and the industry. Here is a quick summary of what I've done so far.
 
 <details>
 <summary>Mathematics and Industry</summary>
@@ -64,7 +83,7 @@ Over the years, I have used maths and ML competences to do work on and advise on
 
 <br>
 
-Perhaps surprisingly, I also have an academic background in Philosophy. It remains one of my hobbies.
+ My first intellectual interests were in Philosophy, and I also have a strong philosophical academic background. It remains one of my hobbies.
 
 
 
