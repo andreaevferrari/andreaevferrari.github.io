@@ -23,7 +23,10 @@ My Physics/Maths papers can be found on [InSpire](https://inspirehep.net/authors
 
 <details>
 <summary>Physics and Maths Research</summary>
-    
+
+<p style="font-size:14px;">
+<br>
+
 Broadly speaking, I have been pioneering the following research directions:
     
     <ul>
@@ -51,12 +54,15 @@ Broadly speaking, I have been pioneering the following research directions:
 
 I am currently working on the following:
 
-- Exploit chiralisation techniques to describe geometrically spaces of conformal blocks of chiral CFTs.
-- Exploit chiralisation techniques to understand AdS/CFT holography at minimal string tension. 
-- Understand more thoroughly the deep relationship between Berry phases and generalised cohomology. 
-- Exploit higher geometry to understand generalised symmetries and their representations. 
+ <ul>
+      <li> Exploit chiralisation techniques to describe geometrically spaces of conformal blocks of chiral CFTs. </li>
+<li>Exploit chiralisation techniques to understand AdS/CFT holography at minimal string tension. </li>
+<li>
+  Understand more thoroughly the deep relationship between Berry phases and generalised cohomology. 
+</li> 
+<li> </li>Exploit higher geometry to understand generalised symmetries and their representations.  <\li>
 
-
+<\p>
 
 </details>
 
