@@ -28,21 +28,29 @@ My Physics/Maths papers can be found on [InSpire](https://inspirehep.net/authors
   
 Broadly speaking, I have been pioneering the following research directions:
     
-    <ul>
+     <li> Describe observables of 3d SUSY gauge theories exploting the geometry of vortex and quasi-map moduli spaces. [Sample talk at PI]() and [sample slide deck](). 
+        <a href="https://pirsa.org/19030107" target="_blank">Sample talk at PI</a> and 
+        <a href="talks/Geom_Indices.pdf" target="_blank">sample slide deck</a>.</li>
+      <li>Understand 2d chiral CFTs (VOAs) that arise at the boundary of tolopogically twisted 3d QFTs in terms of the vacuum geometry of the 3d theory.
+        <a href="https://scgp.stonybrook.edu/video_portal/video.php?id=6991" target="_blank">Sample talk at the Simons Center</a> and 
+        <a href="talks/Hyper_VOAs.pdf" target="_blank">sample slide deck</a>.</li>
+      <li> Understand generalised symmetries in QFT in terms of higher representation theory, opening up the understanding of their representations.
+        <a href="https://www.youtube.com/watch?v=vwkouB69R-M" target="_blank">Sample talk at Oxford</a> and 
+        <a href="GenSym_HigherGauge.pdf" target="_blank">mypdf</a>. </li>
   <li> Understand the relation between moduli spaces of Berry connections of QFTs/periodic monopoles and generalised cohomology.
       <a href="https://www.youtube.com/watch?v=vwkouB69R-M" target="_blank">Sample talk at ICTP</a> and 
         <a href="talks/Berry_GenCoh.pdf" target="_blank">sample slide deck</a>. </li>
-    </ul>
+
 
 
 I am currently working on the following:
 
- <ul>
+ 
 <li> Exploit chiralisation techniques to describe geometrically spaces of conformal blocks of chiral CFTs. </li>
 <li>Exploit chiralisation techniques to understand AdS/CFT holography at minimal string tension. </li>
 <li> Understand more thoroughly the deep relationship between Berry phases and generalised cohomology. </li> 
 <li> Exploit higher geometry to understand generalised symmetries and their representations.  <\li>
-<\ul>
+
 
 </p>
 </details>
