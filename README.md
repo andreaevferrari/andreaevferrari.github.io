@@ -5,8 +5,6 @@ I am a high-energy physicist working across Physics (Quantum Fields and Strings)
 
 <details>
 <summary>Short Physics/Maths Academic Bio </summary>
-
-<br>
   
 
   
@@ -24,7 +22,6 @@ My Physics/Maths papers can be found on [InSpire](https://inspirehep.net/authors
 <details>
 <summary>Physics and Maths Research </summary>
   
-<br>
 
   
 Broadly speaking, I have been pioneering the following research directions:
@@ -50,7 +47,6 @@ I am currently working on the following:
 <details>
 <summary>Physics and ML Research </summary>
   
-<br>
 
 
 
@@ -69,8 +65,6 @@ Whenever possible (such as during the pandemic), I have been a promoter of inter
 <details>
 <summary>Mathematics and Industry</summary>
 
-<br>
-
 
   
 Over the years, I have used maths and ML competences to do work on and advise on risk management, megaproject management, and as I come from a family of builders, construction more generally. Contact me if you'd like to hear more.
@@ -87,8 +81,6 @@ My first intellectual interests were in Philosophy, and I also have a strong phi
 
 <details>
 <summary>Philosophy Background and Interests</summary>
-
-<br>
 
 
 
@@ -107,7 +99,6 @@ I am passionate about music, hiking (especially around the mountains my family h
 
 <summary>Others </summary>
 
-<br>
 
 I am trying to build a generative model that composes fugues. If you are interested in contribute, contact me.
 
