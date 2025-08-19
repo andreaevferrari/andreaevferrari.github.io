@@ -1,10 +1,15 @@
 <!-- Redirected from A Website Builder -->
 
-
-<p>
-  <img src="./images/DSC8599.jpg" alt="My Image" style="float: left; margin-right: 10px; max-width: 30%; height: auto;">
-   High-energy physicist working across Physics (Quantum Fields and Strings), Mathematics (Algebraic Geometry and Category Theory) and Machine Learning.
-</p>
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; vertical-align: middle; padding-right: 10px;">
+      <img src="./images/DSC8599.jpg" alt="My Image" style="max-width: 150px; height: auto;">
+    </td>
+    <td style="border: none; vertical-align: middle;">
+      High-energy physicist working across Physics (Quantum Fields and Strings), Mathematics (Algebraic Geometry and Category Theory) and Machine Learning.
+    </td>
+  </tr>
+</table>
 
 <br>
 
