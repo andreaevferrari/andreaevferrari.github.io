@@ -1,12 +1,13 @@
 <!-- Redirected from A Website Builder -->
 
-<table style="border: none; border-collapse: collapse;">
+<table style="border: none; border-collapse: collapse; margin: 0; padding: 0;">
   <tr>
-    <td style="border: none ; padding: 0;">
-      <img  src = "./images/DSC8599.jpg" alt="My Image" width="100">
+    <td style="border: none; padding: 0; vertical-align: top;">
+      <img src="./images/DSC8599.jpg" alt="My Image" width="100" style="display: block;">
     </td>
-    <td style="border: none; padding: 0;">
-     <p>I am a high-energy physicist working across Physics (Quantum Fields and Strings), Mathematics (Algebraic Geoemetry and Category Theory) and Machine Learning.</p>
+    <td style="border: none; padding: 0 0 0 10px; vertical-align: top;">
+      <p style="margin: 0; padding: 0;"> I am a high-energy physicist working across Physics (Quantum Fields and Strings), Mathematics (Algebraic Geoemetry and Category Theory) and Machine Learning.
+   </p>
     </td>
   </tr>
 </table>
