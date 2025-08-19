@@ -2,8 +2,8 @@
 
 <table style="border: none; border-collapse: collapse;">
   <tr>
-    <td style="border: none">
-      <img  "./images/DSC8599.jpg" alt="My Image" width="100">
+    <td style="border: none" ; padding: 0;>
+      <img  src = "./images/DSC8599.jpg" alt="My Image" width="100">
     </td>
     <td style="border: none; padding-left: 10px;">
      <p>I am a high-energy physicist working across Physics (Quantum Fields and Strings), Mathematics (Algebraic Geoemetry and Category Theory) and Machine Learning.</p>
