@@ -58,7 +58,7 @@ Broadly speaking, I have been pioneering the following research directions:
 </li>
 <li> 
   The understanding of the relation between moduli spaces of Berry connections of QFTs/periodic monopoles and generalised cohomology.
-  <a href="https://www.youtube.com/watch?v=vwkouB69R-M" target="_blank">Sample talk at ICTP</a> and 
+  <a href="https://www.youtube.com/watch?v=2VEXMpJmCeo" target="_blank">Sample talk at ICTP</a> and 
   <a href="./talks/Berry_GenCoh.pdf" target="_blank">sample slide deck</a>. 
 </li>
 </ul>
