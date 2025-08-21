@@ -67,13 +67,14 @@ Broadly speaking, I have been pioneering the following research directions:
 I am currently working on the following topics:
 </p>
 <ul style="font-size:14px;">
-<li> Exploit chiralisation techniques to describe geometrically spaces of conformal blocks of chiral CFTs. </li>
-<li> Exploit chiralisation techniques to understand AdS/CFT holography at minimal string tension. </li>
-<li> Understand more thoroughly the deep relationship between Berry phases and generalised cohomology. </li> 
-<li> Exploit higher geometry to understand generalised symmetries and their representations.  </li>
+<li> A rigorous chiralisation of hypertoric varieties. </li>
+<li> The exploitation of chiralisation techniques to geometrically construct spaces of conformal blocks of chiral algebras </li>
+<li> The exploitation of chiralisation techniques to understand AdS/CFT holography at minimal string tension. </li>
+<li> An investigation of the deep relation between Berry phases/monopole moduli and generalised cohomology. </li> 
+<li> The exploitation of higher geometry to understand generalised symmetries and their representations.  </li>
 </ul>
 
-If you are intersted in them, feel free to reach out!
+If you are intersted in any of them, feel free to reach out!
 
 
 
@@ -87,11 +88,11 @@ If you are intersted in them, feel free to reach out!
 <br>
 
 
-One basic task in Machine Learning (training Boltzmann machines) can be translated into learning parameters in a Hamiltonian of a statistical model such that observed data is reproduced. Its solution essentially led to the <a href="https://www.nobelprize.org/prizes/physics/2024/hinton/facts/2024" target="_blank">2024 Nobel Prize in Physics</a>. In fundamental Physics, we'd like to be agonostic about features such as the structure of the space the system is defined on, or the actual observables that are producing certain correlation functions. Can one learn these too? 
+One basic task in Machine Learning (training Boltzmann machines) can physically be translated into learning parameters in a Hamiltonian of a statistical model, such that given empirical data can be reasonably reproduced. Some algorithmic solutions essentially led to the <a href="https://www.nobelprize.org/prizes/physics/2024/hinton/facts/2024" target="_blank">2024 Nobel Prize in Physics</a>. In fundamental Physics, one would like to be agnostic about further features such as the structure of the space the system is defined on, or the actual observables that are producing certain correlation functions. Can one learn these too? 
 </p>
 
 <p style="font-size:14px;">
-This question is fundamental if one wants to automatically discover dualities , for instance. I am currently pioneering such approaches. See this <a href="https://icml.cc/virtual/2025/poster/44740" target="_blank">ICML25</a> paper for some first results.
+This question is fundamental if one wants to discover dualities in an autamated way, for instance. I am currently pioneering such approaches. See this <a href="https://icml.cc/virtual/2025/poster/44740" target="_blank">ICML25</a> paper for some first results.
   
 </p>
 
