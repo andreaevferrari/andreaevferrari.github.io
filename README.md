@@ -85,11 +85,11 @@ I am currently working on the following:
 <br>
 
 
-One basic task in Machine Learning (training Boltzmann machines) can be translated into fitting parameters in a Hamiltonian of a statistical model such that observed data is reproduced. Its solution essentially led to the 2024 Nobel Prize in Physics. In fundamental Physics, we'd like to be agonostic about features such as the structure of the space the system is defined on, or the actual observables that are producing certain correlation functions. Can one learn these too? 
+One basic task in Machine Learning (training Boltzmann machines) can be translated into learning parameters in a Hamiltonian of a statistical model such that observed data is reproduced. Its solution essentially led to the <a href="https://www.nobelprize.org/prizes/physics/2024/hinton/facts/2024" target="_blank">2024 Nobel Prize in Physics</a>. In fundamental Physics, we'd like to be agonostic about features such as the structure of the space the system is defined on, or the actual observables that are producing certain correlation functions. Can one learn these too? 
 </p>
 
 <p style="font-size:14px;">
-This question is fundamental if one wants to automatically discover dualities, for instance. I am currently pioneering such approaches. See this <a href="https://icml.cc/virtual/2025/poster/44740" target="_blank">ICML25</a> paper for some first results.
+This question is fundamental if one wants to automatically discover dualities , for instance. I am currently pioneering such approaches. See this <a href="https://icml.cc/virtual/2025/poster/44740" target="_blank">ICML25</a> paper for some first results.
   
 </p>
 
