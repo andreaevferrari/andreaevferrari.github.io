@@ -64,7 +64,7 @@ Broadly speaking, I have been pioneering the following research directions:
 </ul>
 
 <p style="font-size:14px;"> 
-I am currently working on the following topics. If you are intersted in them, feel free to reach out:
+I am currently working on the following topics:
 </p>
 <ul style="font-size:14px;">
 <li> Exploit chiralisation techniques to describe geometrically spaces of conformal blocks of chiral CFTs. </li>
@@ -72,6 +72,8 @@ I am currently working on the following topics. If you are intersted in them, fe
 <li> Understand more thoroughly the deep relationship between Berry phases and generalised cohomology. </li> 
 <li> Exploit higher geometry to understand generalised symmetries and their representations.  </li>
 </ul>
+
+If you are intersted in them, feel free to reach out!
 
 
 
