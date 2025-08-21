@@ -64,7 +64,7 @@ Broadly speaking, I have been pioneering the following research directions:
 </ul>
 
 <p style="font-size:14px;"> 
-I am currently working on the following:
+I am currently working on the following topics. If you are intersted in them, feel free to reach out:
 </p>
 <ul style="font-size:14px;">
 <li> Exploit chiralisation techniques to describe geometrically spaces of conformal blocks of chiral CFTs. </li>
