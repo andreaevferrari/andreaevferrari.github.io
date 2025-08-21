@@ -97,7 +97,7 @@ This question is fundamental if one wants to automatically discover dualities, f
 
 <br>
 
-Whenever not detrimental to my research (such as during the pandemic), I have been a promoter of interactions between academia and the industry. Here is a quick summary of what I've done so far.
+Whenever not detrimental to my research (such as during the Covid19 pandemic), I have been a promoter of interactions between academia and the industry. Here is a quick summary of what I've done so far.
 
 <details>
 <summary>Mathematics and Industry</summary>
