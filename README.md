@@ -73,8 +73,7 @@ I am currently working on the following topics:
 <li> An investigation of the deep relation between Berry phases/monopole moduli and generalised cohomology. </li> 
 <li> The exploitation of higher geometry to understand generalised symmetries and their representations.  </li>
 </ul>
-
-If you are intersted in any of them, feel free to reach out!
+<p style="font-size:14px;"> If you are intersted in any of them, feel free to reach out! </p>
 
 
 
