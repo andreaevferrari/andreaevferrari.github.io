@@ -85,11 +85,11 @@ I am currently working on the following:
 <br>
 
 
-One of the most important tasks in Machine Learning applied to Physics is to fit parameters in a Hamiltonian such that observed data is reproduced. Given this, can one learn not only a Hamiltonian, but also features such as the structure of the space the system is defined on, and the observables that are producing certain correlation functions? 
+One basic task in Machine Learning (training Boltzmann machines) can be translated into fitting parameters in a Hamiltonian of a statistical model such that observed data is reproduced. Its solution essentially led to the 2024 Nobel Prize in Physics. In fundamental Physics, we'd like to be agonostic about features such as the structure of the space the system is defined on, or the actual observables that are producing certain correlation functions. Can one learn these too? 
 </p>
 
 <p style="font-size:14px;">
-This question is fundamental if one wants to automatically discover dualities. I am currently pioneering such approaches. See this <a href="https://icml.cc/virtual/2025/poster/44740" target="_blank">ICML25</a> paper for some first results.
+This question is fundamental if one wants to automatically discover dualities, for instance. I am currently pioneering such approaches. See this <a href="https://icml.cc/virtual/2025/poster/44740" target="_blank">ICML25</a> paper for some first results.
   
 </p>
 
@@ -123,7 +123,7 @@ My first intellectual interests were in Philosophy, and I also have a strong aca
 <p style="font-size:14px;">
 <br>
 
-I have been passionate about Philosophy, both continental and analytic. I did some Philosophy in my undergrad and completed with distinction an MSt in Philosophy of Physics at the University of Oxford. I wrote essays on epistemology, philosophy of science, and philosophy of physics. I enjoy thinking about how the foundations of mathematics and geometry impact the construction of physical theories. If you are at all curious about this, feel free to contact me.
+I have been passionate about Philosophy, both continental and analytic. I did some Philosophy in my undergrad and completed with distinction an MSt in Philosophy of Physics at the University of Oxford. I wrote essays on epistemology, philosophy of science, and philosophy of physics. I enjoy thinking about how the foundations of mathematics and geometry impact the construction of physical theories. It's hard. If you are at all curious about this, feel free to contact me.
 
 
 </p>
