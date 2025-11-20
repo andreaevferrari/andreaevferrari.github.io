@@ -91,7 +91,7 @@ One basic task in Machine Learning (training Boltzmann machines) can physically 
 </p>
 
 <p style="font-size:14px;">
-This question is fundamental if one wants to discover dualities in an autamated way, for instance. I am currently pioneering such approaches. See this <a href="https://icml.cc/virtual/2025/poster/44740" target="_blank">ICML25</a> paper for some first results. <a href="./talks/Duality_ML.pdf" target="_blank">Sample slide deck</a>. 
+This question is fundamental if one wants to discover dualities in an autamated way, for instance. I am currently pioneering such approaches. See this <a href="https://icml.cc/virtual/2025/poster/44740" target="_blank">ICML25</a> paper for some first results. <a href="https://www.youtube.com/watch?v=17av_-7B7pE" target= "_blank"> Sample talk at the Newton Institute </a> and <a href="./talks/Duality_ML.pdf" target="_blank"> sample slide deck</a>. 
   
 </p>
 
