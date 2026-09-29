@@ -108,7 +108,7 @@ This question is fundamental if one wants to discover dualities in an autamated 
   
 <p style="font-size:14px;">
 <br>
-I have been thinking about AI for science, most recently in the context of a PIBBSS fellowship sponsored by Principles of Intelligence, Inc.. More on this soon.
+I have been thinking about the impact of AI on science, most recently in the context of a PIBBSS fellowship sponsored by Principles of Intelligence. More on this soon.
 </p>
 
 </details>
