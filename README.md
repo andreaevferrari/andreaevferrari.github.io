@@ -6,9 +6,7 @@
       <img src="images/DSC8599.JPG" alt="My Image" style="max-width: 150px; height: auto;">
     </td>
     <td style="border: none; vertical-align: middle;">
-      High-energy physicist working across Physics (Quantum Fields and Strings), Mathematics (Algebraic Geometry and Category Theory) and AI/Machine Learning.
-
-      Royal Society Dorothy Hodgkin Fellow (Assistant Research Professor level) at DAMTP, University of Cambridge
+      High-energy physicist working across Physics (Quantum Fields and Strings), Mathematics (Algebraic Geometry and Category Theory) and AI/Machine Learning. Royal Society Dorothy Hodgkin Fellow (Assistant Research Professor level) at DAMTP, University of Cambridge
     </td>
   </tr>
 </table>
