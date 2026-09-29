@@ -67,7 +67,7 @@ Broadly speaking, I have been pioneering the following research directions:
 </ul>
 
 <p style="font-size:14px;"> 
-I am currently PI of the project <em> A geometric 3dTFT/VOA correspondence. <\em>. Right now, I am focused on:
+I am currently PI of the project <em> A geometric 3dTFT/VOA correspondence. </em> Right now, I am focused on:
 </p>
 <ul style="font-size:14px;">
 <li> The exploitation of chiralisation techniques to geometrically construct spaces of conformal blocks of chiral algebras </li>
