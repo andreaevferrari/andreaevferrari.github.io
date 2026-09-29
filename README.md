@@ -8,7 +8,7 @@
            width="300">
     </td>
     <td style="border: none; vertical-align: middle;">
- Royal Society Dorothy Hodgkin Fellow (Assistant Research Professor level) at DAMTP, University of Cambridge.<br><br>
+ Royal Society Dorothy Hodgkin Fellow (Assistant Research Professor level) at DAMTP, University of Cambridge. PI of the project <em> A geometric 3dTFT/VOA correspondence.</em>  <br><br>
  High-energy physicist working across Physics (Quantum Fields and Strings), Mathematics (Algebraic Geometry and Category Theory) and AI/Machine Learning.
     </td>
   </tr>
@@ -67,13 +67,16 @@ Broadly speaking, I have been pioneering the following research directions:
 </ul>
 
 <p style="font-size:14px;"> 
-I am currently working on the following topics:
+I am currently PI of the project <em> A geometric 3dTFT/VOA correspondence. <\em>. Right now, I am focused on:
 </p>
 <ul style="font-size:14px;">
 <li> The exploitation of chiralisation techniques to geometrically construct spaces of conformal blocks of chiral algebras </li>
 <li> The exploitation of chiralisation techniques to understand AdS/CFT holography at minimal string tension. </li>
-<li> An investigation of the deep relation between Berry phases/monopole moduli and generalised cohomology. </li> 
 <li> The exploitation of higher geometry to understand generalised symmetries and their representations.  </li>
+</ul>ul>
+Other research topics:
+<ul style="font-size:14px;">
+<li> An investigation of the deep relation between Berry phases/monopole moduli and generalised cohomology. </li> 
 </ul>
 <p style="font-size:14px;"> If you are intersted in any of them, feel free to reach out! </p>
 
