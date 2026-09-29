@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="420" style="border: none !important;">
+<td width="400" style="border: none !important;">
 <img src="images/DSC8599.JPG" width="400">
 </td>
 <td style="border: none !important;">
