@@ -1,16 +1,21 @@
 <!-- Redirected from A Website Builder -->
 
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="border: none; vertical-align: middle; padding-right: 10px;">
-      <img src="images/DSC8599.JPG"
-           alt="My Image"
-           style="max-width: 150px; height: auto;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <!-- LEFT COLUMN: IMAGE -->
+    <td width="170" valign="middle" style="width:170px; padding-right:20px;">
+      <img
+        src="images/DSC8599.JPG"
+        alt="My Image"
+        width="150"
+        style="width:150px; height:auto; display:block;"
+      >
     </td>
 
-    <td style="border: none; vertical-align: middle;">
+    <!-- RIGHT COLUMN: TEXT -->
+    <td valign="middle" style="vertical-align:middle;">
       <div>Royal Society Dorothy Hodgkin Fellow (Assistant Research Professor level) at DAMTP, University of Cambridge.</div>
-      <div style="margin-top: 20px;"> High-energy physicist working across Physics (Quantum Fields and Strings), Mathematics (Algebraic Geometry and Category Theory) and AI/Machine Learning.</div>
+      <div style="margin-top:20px;">High-energy physicist working across Physics (Quantum Fields and Strings), Mathematics (Algebraic Geometry and Category Theory) and AI/Machine Learning.</div>
     </td>
   </tr>
 </table>
