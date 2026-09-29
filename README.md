@@ -74,7 +74,9 @@ I am currently lead investigator of the research programme <em> A geometric 3dTF
 <li> The exploitation of chiralisation techniques to understand AdS/CFT holography at minimal string tension. </li>
 <li> The exploitation of higher geometry to understand generalised symmetries and their representations.  </li>
 </ul>
-Other research topics:
+<p style="font-size:14px;"> 
+Other current research directions include:
+</p>
 <ul style="font-size:14px;">
 <li> An investigation of the deep relation between Berry phases/monopole moduli and generalised cohomology. </li> 
 </ul>
@@ -104,7 +106,7 @@ This question is fundamental if one wants to discover dualities in an autamated 
 
 
 <details>
-<summary> AI for Science </summary>
+<summary> Impact of AI on Science </summary>
   
 <p style="font-size:14px;">
 <br>
