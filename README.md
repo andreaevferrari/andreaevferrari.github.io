@@ -8,8 +8,8 @@
            width="300">
     </td>
     <td style="border: none; vertical-align: middle;">
- Royal Society Dorothy Hodgkin Fellow (Assistant Research Professor level) at DAMTP, University of Cambridge. PI of the project <em> A geometric 3dTFT/VOA correspondence.</em>  <br><br>
- High-energy physicist working across Physics (Quantum Fields and Strings), Mathematics (Algebraic Geometry and Category Theory) and AI/Machine Learning.
+       High-energy physicist working across Physics (Quantum Fields and Strings), Mathematics (Algebraic Geometry and Category Theory) and AI/Machine Learning.<br><br>
+ Royal Society Dorothy Hodgkin Fellow (Assistant Research Professor level) at DAMTP, University of Cambridge. Lead investigator of the research programme <em> A geometric 3dTFT/VOA correspondence.</em>  
     </td>
   </tr>
 </table>
@@ -67,7 +67,7 @@ Broadly speaking, I have been pioneering the following research directions:
 </ul>
 
 <p style="font-size:14px;"> 
-I am currently PI of the project <em> A geometric 3dTFT/VOA correspondence. </em> Right now, I am focused on:
+I am currently lead investigator of the research programme <em> A geometric 3dTFT/VOA correspondence. </em> Right now, I am focussing on:
 </p>
 <ul style="font-size:14px;">
 <li> The exploitation of chiralisation techniques to geometrically construct spaces of conformal blocks of chiral algebras </li>
