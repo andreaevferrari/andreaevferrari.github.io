@@ -1,11 +1,11 @@
 <!-- Redirected from A Website Builder -->
 
-<table>
-<tr>
-<td width="180">
-<img src="images/DSC8599.JPG" width="150">
+<table style="border: none;">
+<tr style="border: none;">
+<td width="320" style="border: none;">
+<img src="images/DSC8599.JPG" width="400">
 </td>
-<td>
+<td style="border: none;">
 Royal Society Dorothy Hodgkin Fellow (Assistant Research Professor level) at DAMTP, University of Cambridge.<br><br>
  High-energy physicist working across Physics (Quantum Fields and Strings), Mathematics (Algebraic Geometry and Category Theory) and AI/Machine Learning.
 </td>
