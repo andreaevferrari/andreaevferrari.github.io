@@ -6,7 +6,9 @@
       <img src="images/DSC8599.JPG" alt="My Image" style="max-width: 150px; height: auto;">
     </td>
     <td style="border: none; vertical-align: middle;">
-      High-energy physicist working across Physics (Quantum Fields and Strings), Mathematics (Algebraic Geometry and Category Theory) and Machine Learning.
+      High-energy physicist working across Physics (Quantum Fields and Strings), Mathematics (Algebraic Geometry and Category Theory) and AI/Machine Learning.
+
+      Royal Society Dorothy Hodgkin Fellow (Assistant Research Professor level) at DAMTP, University of Cambridge
     </td>
   </tr>
 </table>
@@ -19,7 +21,7 @@
 <p style="font-size:14px;">
 <br>
   
-I studied at the University of Zurich/ETHZ (Swiss Federal Institute of Technology), and completed a PhD/DPhil at the Mathematical Institute of the University of Oxford. My MSc advisor was Niklas Beisert, my DPhil supervisor Lionel Mason. I have been affiliated with the Perimeter Institute, Durham University, and most recently the University of Edinburgh and DESY, Hamburg. I am currently on a long-term visit to the University of Cambridge.
+I studied at the University of Zurich/ETHZ (Swiss Federal Institute of Technology), and completed a PhD/DPhil at the Mathematical Institute of the University of Oxford. My MSc advisor was Niklas Beisert, my DPhil supervisor Lionel Mason. I have been affiliated with the Perimeter Institute, Durham University, the University of Edinburgh and DESY, Hamburg. I am currently a Royal Society Dorothy Hodgkin Fellow at DAMTP, the University of Cambridge.
 
   
 </p>
@@ -67,7 +69,6 @@ Broadly speaking, I have been pioneering the following research directions:
 I am currently working on the following topics:
 </p>
 <ul style="font-size:14px;">
-<li> A rigorous chiralisation of hypertoric varieties. </li>
 <li> The exploitation of chiralisation techniques to geometrically construct spaces of conformal blocks of chiral algebras </li>
 <li> The exploitation of chiralisation techniques to understand AdS/CFT holography at minimal string tension. </li>
 <li> An investigation of the deep relation between Berry phases/monopole moduli and generalised cohomology. </li> 
@@ -138,15 +139,6 @@ I am passionate about music, hiking (especially around the <a href="https://en.w
 
 <details>
 
-
-<summary>Others </summary>
-
-<p style="font-size:14px;">
-<br>
-
-I am trying to build a generative model that composes fugues. If you are interested in contributing, contact me.
-
-</p>
 
 </details>
 
