@@ -102,6 +102,17 @@ This question is fundamental if one wants to discover dualities in an autamated 
 
 </details>
 
+
+<details>
+<summary> AI for Science </summary>
+  
+<p style="font-size:14px;">
+<br>
+I have been thinking about AI for science, most recently in the context of a PIBBSS fellowship sponsored by Principles of Intelligence, Inc.. More on this soon.
+</p>
+
+</details>
+
 <br>
 
 Whenever not detrimental to my research (such as during the Covid19 pandemic), I have been a promoter of interactions between academia and the industry. Here is a quick summary of what I've done so far.
