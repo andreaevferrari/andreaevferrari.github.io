@@ -73,7 +73,7 @@ I am currently lead investigator of the research programme <em> A geometric 3dTF
 <li> The exploitation of chiralisation techniques to geometrically construct spaces of conformal blocks of chiral algebras </li>
 <li> The exploitation of chiralisation techniques to understand AdS/CFT holography at minimal string tension. </li>
 <li> The exploitation of higher geometry to understand generalised symmetries and their representations.  </li>
-</ul>ul>
+</ul>
 Other research topics:
 <ul style="font-size:14px;">
 <li> An investigation of the deep relation between Berry phases/monopole moduli and generalised cohomology. </li> 
