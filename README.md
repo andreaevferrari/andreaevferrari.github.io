@@ -9,7 +9,8 @@
     </td>
    <td width="70%" style="border: none; vertical-align: middle;">
        High-energy physicist working across Physics (Quantum Fields and Strings), Mathematics (Algebraic Geometry and Category Theory) and AI/Machine Learning.<br><br>
- Royal Society Dorothy Hodgkin Fellow (Assistant Research Professor level) at DAMTP, University of Cambridge. Lead investigator of the research programme <em> A geometric 3dTFT/VOA correspondence.</em>  
+
+<a href="https://royalsociety.org/news/2026/09/royal-society-announces-2026-dorothy-hodgkin-fellowships/" target="_blank">Royal Society Dorothy Hodgkin Fellow</a> (Assistant Research Professor level) <a href="https://www.maths.cam.ac.uk/person/af895" target="_blank">at DAMTP, University of Cambridge</a>. Lead investigator of the research programme <em> A geometric 3dTFT/VOA correspondence.</em>  
     </td>
   </tr>
 </table>
